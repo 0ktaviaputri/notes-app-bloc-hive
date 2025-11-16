@@ -10,8 +10,8 @@ Aplikasi catatan sederhana yang dibangun dengan Flutter, BLoC state management, 
 - ✅ Responsive UI
 
 ## 👥 Anggota Kelompok
-- **RIZQI CAHYA MAULIDA** - UI Layer & Presentasi (NotesListScreen, NoteFormScreen, Navigation)
-- **SILVIA PUTRI ANGGRAINI** - Business Logic & Data Layer (Note Model, NotesRepository, Hive, BLoC)
+- OKTAVIA PUTRI BUDIANSYAHUI Layer & Presentasi (NotesListScreen, NoteFormScreen, Navigation) 
+- Business Logic & Data Layer (Note Model, NotesRepository, Hive, BLoC)
 
 ## 🛠️ Teknologi
 - Flutter 3.x
